@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Aditya Khetarpal.
 - 💻 I’m a solana researcher and content strategist
+- 🇮🇳 Member of Superteam India
 
 <!---
 AdityaKhetarpal/AdityaKhetarpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
