@@ -8,7 +8,7 @@ Based in Delhi.
 
 ### What I'm working on
 
-- Building analytics dashboards on Solana — stablecoin supply, DeFi TVL, peg health
+- Building analytics dashboards on Solana - stablecoin supply, DeFi TVL, peg health
 - Publishing market research at [degenfinds](https://degenfinds.substack.com)
 - Expanding into machine learning: regression, classification, model diagnostics
 
@@ -18,9 +18,9 @@ Based in Delhi.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**solana-stablecoin-dashboard**](https://github.com/AdityaKhetarpal/solana-stablecoin-dashboard) | Real-time Solana stablecoin dashboard — supply, composition, peg health, DeFi TVL | HTML, DefiLlama & CoinGecko APIs |
-| [**Data-Analytics-Portfolio**](https://github.com/AdityaKhetarpal/Data-Analytics-Portfolio) | Six end-to-end analysis projects — risk engines, attrition diagnostics, BI dashboards | Python, SQL, Tableau, Power BI |
-| [**Supervised-ML-Portfolio**](https://github.com/AdityaKhetarpal/Supervised-ML-Portfolio) | Three supervised ML projects — regression, binary and multi-class classification | Python, scikit-learn, pandas |
+| [**solana-stablecoin-dashboard**](https://github.com/AdityaKhetarpal/solana-stablecoin-dashboard) | Real-time Solana stablecoin dashboard - supply, composition, peg health, DeFi TVL | HTML, DefiLlama & CoinGecko APIs |
+| [**Data-Analytics-Portfolio**](https://github.com/AdityaKhetarpal/Data-Analytics-Portfolio) | Six end-to-end analysis projects - risk engines, attrition diagnostics, BI dashboards | Python, SQL, Tableau, Power BI |
+| [**Supervised-ML-Portfolio**](https://github.com/AdityaKhetarpal/Supervised-ML-Portfolio) | Three ML projects - regression, binary and multi-class classification | Python, scikit-learn, pandas |
 | [**air-quality-monitor**](https://github.com/AdityaKhetarpal/air-quality-monitor) | Urban air quality risk monitoring pipeline | Python |
 
 ---
