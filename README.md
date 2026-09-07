@@ -27,7 +27,7 @@ Based in Delhi.
 
 ### Tools
 
-**Languages** Python · SQL · R
+**Languages** Python · SQL
 **Analysis** pandas · NumPy · scikit-learn · Matplotlib
 **BI** Tableau · Power BI · Excel
 **On-chain** Dune · DefiLlama · CoinGecko
