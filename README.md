@@ -15,7 +15,7 @@ Data analyst and Solana research analyst based in Delhi. I build analytics dashb
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **AI Data Analyst Agent** | Read-only text-to-SQL agent over an Indian e-commerce database. Asks clarifying questions, corrects its own SQL, and shows the query beside every answer. Scored on a 40-question execution-accuracy test. | Python, SQL, LLM agents | [Repo](https://github.com/AdityaKhetarpal/ai-data-analyst-agent) |
+| **AI Data Analyst Agent** | Read-only text-to-SQL agent over an Indian e-commerce database. Asks clarifying questions, corrects its own SQL, and shows the query beside every answer. Scores 80% execution accuracy on a 40-question test. | Python, SQL, Next.js, LLM agents | [Live](https://ai-data-analyst-agent-ten.vercel.app) · [Repo](https://github.com/AdityaKhetarpal/ai-data-analyst-agent) |
 | **Hospital Readmission Risk** | Predicts 30-day readmission for diabetic patients across 100k+ encounters. Patient-level split to prevent leakage, SHAP explanations, Streamlit app. | Python, LightGBM, SHAP, Streamlit | [Repo](https://github.com/AdityaKhetarpal/ML-Portfolio) |
 | **SmartShop Purchase Intent** | Predicts which online shopping sessions end in a purchase when only 15.5% do. Balanced class weights and GridSearchCV tuning reach 83% recall on buyers. | Python, scikit-learn, Decision Tree | [Repo](https://github.com/AdityaKhetarpal/ML-Portfolio) |
 | **Employee Attrition Risk** | Flags employees likely to resign. Compares baseline, L1 and L2 logistic regression, with L1 reaching 87% accuracy while pruning weak engineered features. | Python, scikit-learn, Logistic Regression | [Repo](https://github.com/AdityaKhetarpal/ML-Portfolio) |
@@ -39,7 +39,7 @@ Data analyst and Solana research analyst based in Delhi. I build analytics dashb
 
 ### Tools
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | Python · SQL · R · JavaScript |
 | **Data and ML** | pandas · NumPy · scikit-learn · LightGBM · SHAP |
