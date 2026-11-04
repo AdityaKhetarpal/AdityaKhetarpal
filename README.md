@@ -17,7 +17,8 @@ Data analyst and Solana research analyst based in Delhi. I build analytics dashb
 |---|---|---|---|
 | **AI Data Analyst Agent** | Read-only text-to-SQL agent over an Indian e-commerce database. Asks clarifying questions, corrects its own SQL, and shows the query beside every answer. Scored on a 40-question execution-accuracy test. | Python, SQL, LLM agents | [Repo](https://github.com/AdityaKhetarpal/ai-data-analyst-agent) |
 | **Hospital Readmission Risk** | Predicts 30-day readmission for diabetic patients across 100k+ encounters. Patient-level split to prevent leakage, SHAP explanations, Streamlit app. | Python, LightGBM, SHAP, Streamlit | [Repo](https://github.com/AdityaKhetarpal/ML-Portfolio) |
-| **ML Portfolio** | Five end-to-end projects in regression and classification, each with an honest write-up of where the model falls short. | Python, scikit-learn, pandas | [Repo](https://github.com/AdityaKhetarpal/ML-Portfolio) |
+| **SmartShop Purchase Intent** | Predicts which online shopping sessions end in a purchase when only 15.5% do. Balanced class weights and GridSearchCV tuning reach 83% recall on buyers. | Python, scikit-learn, Decision Tree | [Repo](https://github.com/AdityaKhetarpal/ML-Portfolio) |
+| **Employee Attrition Risk** | Flags employees likely to resign. Compares baseline, L1 and L2 logistic regression, with L1 reaching 87% accuracy while pruning weak engineered features. | Python, scikit-learn, Logistic Regression | [Repo](https://github.com/AdityaKhetarpal/ML-Portfolio) |
 | **AI Learn** | Interactive, visual-first website that teaches AI and LLMs to people with no technical background. | Next.js, GSAP, Vercel | [Live](https://ai-learn-psi-lovat.vercel.app) |
 
 #### Fintech and Analytics
@@ -33,22 +34,6 @@ Data analyst and Solana research analyst based in Delhi. I build analytics dashb
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | **Solana Stablecoin Dashboard** | Real-time view of Solana stablecoin supply, composition, peg health and DeFi TVL. | JavaScript, Vercel serverless, DefiLlama, CoinGecko | [Live](https://solanastablecoin.vercel.app) · [Repo](https://github.com/AdityaKhetarpal/solana-stablecoin-dashboard) |
-| **Creatorless** | Autonomous memecoin launch system that removes creator extraction and routes all fees to buyback and burn. | Solana | [Live](https://creatorless.fun) |
-
----
-
-### Currently Building
-
-- **RBI and SEBI Regulation Copilot:** RAG and AI agent system that answers questions over Indian regulatory circulars
-- **Remittance Cost Tracker:** compares the real cost of sending money to India across providers
-- **SQL Interview Prep:** interactive site that teaches SQL from zero to advanced, with interview questions from top banks and tech firms
-
----
-
-### Research
-
-- **Volatility Clustering and Sector Dispersion in the Indian Equity Market:** GARCH(1,1) analysis of the NIFTY 50 index and sector-level risk
-- Long-form research on stablecoins, RWAs and AI agents on Solana, published on [Substack](https://degenfinds.substack.com) and the Superteam India blog
 
 ---
 
