@@ -1,6 +1,6 @@
 ## Hi, I'm Aditya
 
-Data analyst and Solana research analyst based in Delhi. I build analytics dashboards, machine learning models and AI tools, mostly around fintech and on-chain markets.
+Data analyst based in Delhi, India. I build analytics dashboards, machine learning models and AI tools, mostly around fintech and on-chain markets.
 
 - Member of **Superteam India** and **Turbin3 Research** graduate
 - Won **6 research bounties**, including 1st place for *State of RWAs on Solana*
